@@ -1,0 +1,3 @@
+Ricardo has 8 pet mice. He keeps them in two cages that are connected so that the mice can go back and forth between the cages. One of the cages is blue, and the other is green. Show all the ways that 8 mice can be in two cages.
+The situation can be represented by the equation  b + g = 8, where b represents the blue cage and g the green cage.
+Can b=g be true?

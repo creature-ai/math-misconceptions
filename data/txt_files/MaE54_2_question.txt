@@ -1,0 +1,1 @@
+Write an equation using the variables C and S to represent the following statement: "At Mindy's restaurant, for every four people who ordered cheesecake, there are five people who ordered strudel". Let C represent the number of cheesecake and S represent the number of strudels ordered.

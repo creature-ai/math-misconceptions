@@ -1,0 +1,1 @@
+c=r could be true or false, depending on the values of these variables

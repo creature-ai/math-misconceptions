@@ -1,0 +1,7 @@
+[32.11 + .4(32.11)] = x - .1x
+32.11 + 12.844 = x(1 - .1)
+44.954 = x(.9)
+49.94888.. = x
+x = $49.90
+The regular selling price should be at least $49.90 
+If the offer changes, x cannot represent the selling price anymore, two different letters will be needed to solve the new problem.

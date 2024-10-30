@@ -1,0 +1,2 @@
+x=2
+Variables can't take negative numbers, so the answer has to be 2

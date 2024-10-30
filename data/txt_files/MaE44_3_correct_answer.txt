@@ -1,0 +1,1 @@
+Yes, it is possible to use a formula to find out how much over time Mary would have to work, the equation is: 50 = 20 + 2H

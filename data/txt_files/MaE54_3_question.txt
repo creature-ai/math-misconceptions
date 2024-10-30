@@ -1,0 +1,1 @@
+Write an equation to represent the following statement: ‘At this company, there are six times as many workers as managers’. Assuming that the variable W represents the number of workers and M the number of managers.

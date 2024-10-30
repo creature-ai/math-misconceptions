@@ -1,0 +1,7 @@
+Greg conducts a survey of 100 classmates to determine their favorite fruits. The results of the survey are shown in a circle graph that contains the following data: 
+Orange - 17%
+Apple - 36%
+Grape - 15%
+Banana - 23%
+Kiwi - 9%
+Which two fruits represent 2/5 of the students' favorites?

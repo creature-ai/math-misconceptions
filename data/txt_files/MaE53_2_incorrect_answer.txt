@@ -1,0 +1,2 @@
+All I have to do is to replace the first letter in the equation, with the first number given in the statement:
+12(12)=144

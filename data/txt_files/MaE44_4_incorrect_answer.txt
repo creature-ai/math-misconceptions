@@ -1,0 +1,2 @@
+n*4 - 4 = b
+Well, I thought just to divide 76 by 4 would be too complicated, so I subtracted the 4 from that... No, wait, I added the 4 because that would be the reverse of the formula. and then I got 80. And then I divided that by 4 and got 20

@@ -1,0 +1,3 @@
+m=$7h
+m=7*35=245
+Hank would earn $245 after working 35 hours

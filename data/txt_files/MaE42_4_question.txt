@@ -1,0 +1,2 @@
+You have two gears on your table. Gear A has 8 teeth, and gear B has 12 teeth. Answer the following questions. 
+Devise  a way to keep track of gear B's revolutions

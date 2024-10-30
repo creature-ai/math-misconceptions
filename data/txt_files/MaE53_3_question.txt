@@ -1,0 +1,3 @@
+The amount of money Hank earns after working h hours is given by the equation below. Let m equal the amount of money Hank earns.
+m=$7h
+How much money would Hank earn after working 35 hours?

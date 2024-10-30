@@ -1,0 +1,8 @@
+An example of possible correct answer is:
+x   |   y
+-4  | 19
+-2  | 1  
+  0  |  -1 
+2  | 13
+4  | 43
+[The graph is a curved line that represents the parabolla given by the equation f(x)=2x^2+3x-1]

@@ -1,0 +1,3 @@
+Are these number sentences true or false?
+a = a
+c = r

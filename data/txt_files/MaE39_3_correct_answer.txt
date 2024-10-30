@@ -1,0 +1,1 @@
+Doubling x will yield more rubas than adding 5x amount, because doubling is exponential and adding 5x is a linear relationship

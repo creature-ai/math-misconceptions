@@ -1,0 +1,1 @@
+You could do guess and check. For example if the last row has 50 seats, you do 50-8=42 and you would have to figure out what times 2 equals 42. That would be 21. It's easy, so you don't need an equation for finding the number of seats.

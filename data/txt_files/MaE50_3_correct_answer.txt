@@ -1,0 +1,2 @@
+Tube:13 candies
+The box could contain any amount of candies

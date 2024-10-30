@@ -1,0 +1,1 @@
+f(x)=4x+1 and the correct graph shown in the image

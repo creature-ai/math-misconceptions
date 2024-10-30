@@ -1,0 +1,1 @@
+Write an equation using the variables S and P to represent the following statement: "There are six times as many students as professors at this university". Use S for the number of students and P for the number of professors.

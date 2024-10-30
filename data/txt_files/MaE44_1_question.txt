@@ -1,0 +1,4 @@
+Ellie is planting different numbers of seeds in flower pots. The graph below shows the size, in inches, of each pot, y, Ellie uses to plant x seeds
+[The graph is a straight line with a positive slope. It starts at (0,0). There are 5 points plotted that make the straight line: (1,3), (2,5), (3,7), (4,9), and (5,11)]
+According to the graph, what is the size, in inches, of the flower pot Ellie uses to plant 4 seeds?
+What is the difference, in inches, of the size of the flower pot Ellie uses to plant 4 seeds compared to the flower pot that Ellie uses to plant 2 seeds?

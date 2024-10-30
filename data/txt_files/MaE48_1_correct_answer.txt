@@ -1,0 +1,2 @@
+x = $49.95
+If the offer changes, x will continue representing the selling price, the only thing that changes is the decimal number that multiplies x

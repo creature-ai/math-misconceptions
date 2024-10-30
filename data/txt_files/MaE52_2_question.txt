@@ -1,0 +1,3 @@
+Solve for t:
+t-24=23t
+Check your answer

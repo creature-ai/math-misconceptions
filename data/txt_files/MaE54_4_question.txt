@@ -1,0 +1,1 @@
+Write an expression that could be used to represent the number of rows, if there were n girls all together and each row had 6 girls.

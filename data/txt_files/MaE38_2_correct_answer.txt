@@ -1,0 +1,1 @@
+For this linear function, we use the slope to calculate the distance the frog walks: 20 cm

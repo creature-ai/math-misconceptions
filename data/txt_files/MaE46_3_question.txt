@@ -1,0 +1,6 @@
+Given the equation: a=28+b
+Which of the following would be true?
+(i) a is greater than b
+(ii) b is greater than a
+(iii) a=28
+(iv) you cannot tell which number is greater

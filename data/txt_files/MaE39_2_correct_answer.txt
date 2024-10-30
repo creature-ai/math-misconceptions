@@ -1,0 +1,1 @@
+Exponential because it's not going at a constant rate and its growth factor is 1 .06 from 2500 to 2650 and also 2650 to 2809 has a growth factor of 1.06. So if it keeps multiplying by 1.06 then its exponential growth

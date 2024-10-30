@@ -1,0 +1,3 @@
+Is the number that goes in the [_] the same number in the following two equations?
+2*[_]+15=31
+2*[_]+15-9=31-9

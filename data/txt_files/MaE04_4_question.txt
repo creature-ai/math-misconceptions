@@ -1,0 +1,1 @@
+Fold this piece of paper in half and then open it up. How many regions were made? Can you describe how many regions there would be for any number of folds?

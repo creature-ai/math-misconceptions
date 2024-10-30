@@ -1,0 +1,2 @@
+Evaluate the following expression for y = 3:
+5y-24÷y+10

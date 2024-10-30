@@ -1,0 +1,2 @@
+The first row of a concert hall has 10 seats. Each row thereafter has 2 more seats than the row in the front of it.
+Let R represent the number of the row and let S represent the number of seats in that row. Can you give an equation for finding the number of seats?

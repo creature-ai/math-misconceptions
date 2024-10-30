@@ -1,0 +1,1 @@
+b can't be the same as g, because the letters represent different things

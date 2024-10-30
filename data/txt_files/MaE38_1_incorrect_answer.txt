@@ -1,0 +1,3 @@
+[The learner counted 3 boxes along the base of the stair step and 2 boxes along the side of the stair step and recorded the slope as 2/3. She repeated this procedure, using the points (3,6) and (5,10). She found the run by counting 2 boxes along the base of her second stair step, and she apparently determined the rise by rounding the number of boxes along the side of the stair step to 1 box. She recorded a second slope of 1/2.]
+It has different amounts on the sides and the rise and the runs, the slope for this line changed.
+[The learner is then asked to draw a line with a slope that did not change. She plotted a point on the graph, went up 4 and over 2, plotted a new point, went up 4 and over 2, plotted a point, and then connected the points.]

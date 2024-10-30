@@ -1,0 +1,11 @@
+16
+9 divided by 3 is 3 and 6 divide by 3 is 2. I divided by 3, because 9 can't go into 24. Then:
+3 cm-2 cm
+6-4
+9-6
+12-8
+15-10
+18-12
+21-14
+24-16
+This one can't be solved with the proportions procedure, because we can't make a ratio of cm to cm

@@ -1,0 +1,1 @@
+Let N represent the number of squares along one edge of a grid and let B represent the number of squares in the border. Write an equation for finding the number of squares in the border. Can you use your equation to find the size of a grid with a border that contains 76 squares?

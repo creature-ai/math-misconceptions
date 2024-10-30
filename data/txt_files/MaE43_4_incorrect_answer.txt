@@ -1,0 +1,7 @@
+The learner represented the function with the equation: x=1(y)+5
+With the statement: "Every hour you earn $5 more"
+And with a data-table and a graph
+Data table:
+x | 1 |  2  |  3  |  4  | 5  
+y | 5 | 10 | 15 | 20 | 25
+On the graph, the learner plotted the y-data on the horizontal axis and the x-data on the vertical one

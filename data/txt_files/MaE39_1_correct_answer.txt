@@ -1,0 +1,1 @@
+The situation will be exponential in both cases because each term is raised to a power that includes a variable x.

@@ -1,0 +1,3 @@
+In some states, a deposit is charged on aluminum pop cans and is refunded when the cans are returned. In New York, the deposit is 5 cents a can.
+What would be the refund for returning 6 (10 or 12) cans?
+Describe how the store owner would figure the amount of refund for any number of returned cans.

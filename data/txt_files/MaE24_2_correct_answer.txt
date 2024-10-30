@@ -1,0 +1,2 @@
+(4 cents)/(6 sweets) = (10 cents)/(? sweets)
+(10 cents)*(6 sweets)/(4 cents) = 60/4 sweets = 15 sweets

@@ -1,0 +1,11 @@
+I'll use K for the Kit Kat bars, S for Snickers and P for Peanut Butter Cups.
+K=S+22
+P=K+32
+P+k+S=306
+If I divide 306 by 3, I get 102, there would be 102 bars of each if all were equal. Since there are more Kit Kats, I'll guess K=80.
+P=80+32=112
+80=S+22
+80=58+22, S=58
+P=112, K=80 and S=58
+Checking: 112+80+58=250
+Then, there are more Kit Kats...  My initial guess is wrong...

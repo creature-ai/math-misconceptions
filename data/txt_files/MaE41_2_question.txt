@@ -1,0 +1,1 @@
+For the function f(x)=2x^2+3x-1, (i) make a table of data points and (ii) sketch a graph of the data

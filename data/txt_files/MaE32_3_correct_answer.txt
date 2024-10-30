@@ -1,0 +1,2 @@
+T2-T1=-3-5=-8
+There was a decrease of 8 degrees in the temperature

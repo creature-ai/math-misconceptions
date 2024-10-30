@@ -1,0 +1,1 @@
+For the function f(x)=2x^2+3x-1, (a) make a sketch of the graph of the function's inverse (b) make a table of data points that represents the inverse function, and (c) find the explicit equation for the inverse function

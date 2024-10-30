@@ -1,0 +1,1 @@
+Can't tell, because for some n, 2n may equal or be less than n+2

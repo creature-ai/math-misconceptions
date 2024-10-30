@@ -1,0 +1,3 @@
+A store is having a sale. They have advertised 10% off everything in the store. They also have just purchased a new shipment of computer games. These games cost the store $32.11 each. They want to price the game so that they will make at least a 40% profit, even at the sale price. What is the lowest regular selling price  for the game that will allow this profit? 
+Use x to represent the regular selling price of the game and state an equation to solve this problem. 
+If the store changed the % off in the store, would x continue representing the selling price? What would change in your equation?

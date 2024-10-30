@@ -1,0 +1,7 @@
+I will calculate the cost per kilogram for each package:
+12.9/8=1.6125 dollars per kg, for the 8-kg package
+6.40/3=2.1333 dollars per kg, for the 3-kg package
+9.00/5=1.80 dollars per kg, for the 5-kg package
+The average is: (1.6125+2.1333+1.80)/3=1.8486 dollars per kg
+The cost to ship 1-kg package is: (1.8486 dollars/kg)*(1 kg)=1.8486 dollars
+It will cost $1.85 to ship a 1-kg package, and each additional kilogram will cost $1.85

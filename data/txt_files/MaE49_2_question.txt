@@ -1,0 +1,2 @@
+Mary's basic wage is $20 per week. She is also paid another $2 for each hour of over-time she works. 
+If H stands for the number of hours of overtime Mary works and if W stands for her total wage, write an equation for finding Mary's total wage.

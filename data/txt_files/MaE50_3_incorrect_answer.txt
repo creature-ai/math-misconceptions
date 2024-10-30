@@ -1,0 +1,7 @@
+Box=B
+Tube=T
+Briana: 1B+2T+7
+Susan: 1B+1T+20
+B+2T+B+T=20+7
+2B+3T=27
+I need more information to solve the problem, or I have to guess the amount of candies in the box...

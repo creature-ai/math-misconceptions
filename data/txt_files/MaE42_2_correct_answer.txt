@@ -1,0 +1,1 @@
+A linear function (y = 1.30x + 2.50) fits the three given values, the cost to ship a 1-kg package would be $3.80, and the cost for each additional kilogram is $1.30 (the slope).

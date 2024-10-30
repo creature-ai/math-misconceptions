@@ -1,0 +1,1 @@
+[A graphic representation of three spots containing 100 sandwiches each, like: {100 tuna sandwiches} {100 jam sandwiches} {100 peanut butter sandwiches}]

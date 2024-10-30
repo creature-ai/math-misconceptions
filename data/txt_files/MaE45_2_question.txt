@@ -1,0 +1,1 @@
+Write the expression that represents: “Tachi is exactly one year older than Bill” if T represented Tachi’s age and B, Bill’s age.

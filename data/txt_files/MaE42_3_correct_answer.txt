@@ -1,0 +1,4 @@
+For my carnival, the total cost is: 10+2x
+For my friend's carnival, the total cost is: 6+3y
+As we spent the same money: 10+2x=6+3y
+There are two possible solutions: If I took 1 ride, my friend took 2 rides. If I took 4 rides, my friend took 4 rides.

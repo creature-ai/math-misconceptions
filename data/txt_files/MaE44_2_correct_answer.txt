@@ -1,0 +1,3 @@
+refund = 5x, (being x the amount of cans)
+6 cans: 30 cents, 10 cans: 50 cents, 12 cans: 60 cents
+The owner has to multiply the amount of cans times the 5 cents for each one, as in the equation provided, for the refund obtained depends on the amount of returned cans

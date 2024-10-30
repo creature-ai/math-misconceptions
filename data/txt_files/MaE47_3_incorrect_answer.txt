@@ -1,0 +1,1 @@
+The first sentence is true, the variable a has to be the same in the same problem. The second one must be false, because when a letter represents a number, usually each letter represents a different number, not the same ones.

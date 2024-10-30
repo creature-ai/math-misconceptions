@@ -1,0 +1,3 @@
+For 6 cans, the refund would be 30 cents, 50 cents for 10 and 60 cents for 12.
+The store owner would have to add as plenty of times the 5 cents per can, according to the total amount of cans. For example, for 6 cans I added: 5 + 5 + 5 + 5 + 5 + 5 = 30 cents
+It depends on the refund he wants to obtain, the amount of cans he has to return.

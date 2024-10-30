@@ -1,0 +1,13 @@
+(a) The sketch of the graph of the function's inverse is a curve representing a square root.
+(b) Same data table for the original function, with the variables inverted.
+  y  |  x
+ 19  |  -4
+   1  |  -2
+  -1  | 0  
+ 13 | 2 
+43 | 4
+These points can be used to sketch the graph
+The inverse function for a quadratic is a square root function:
+f(x)=y=2x^2+3x+1
+x=[(1/2)y+(1/16)]^(1/2)-(3/4)
+f^-1(x)=[(1/2)y+(1/16)]^(1/2)-(3/4)

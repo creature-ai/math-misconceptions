@@ -1,0 +1,1 @@
+b=g is true when there are 4 mice in each box, so b = g is true for number 4

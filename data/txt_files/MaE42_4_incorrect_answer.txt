@@ -1,0 +1,9 @@
+x  |  y
+0  |  5
+1   | 12
+2   | 19
+3   | 26
+5   | 40
+6   | 47
+On the x side, it's going up by ones, and on the other side, it's going up by ... sevens. It's a pattern, but this isn't linear. It has to
+ be a pattern that doesn't change. You know? It has to be like 3, 6, 9, like that.

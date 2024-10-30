@@ -1,0 +1,4 @@
+Read the following phrase:
+"three more than twice n"
+Write an expression to represent the phrase
+Evaluate the expression you wrote when  n = 31

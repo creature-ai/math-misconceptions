@@ -1,0 +1,1 @@
+Can you tell which is larger, 2n or n+2? Please explain your answer

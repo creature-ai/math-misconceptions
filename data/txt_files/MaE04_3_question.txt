@@ -1,0 +1,2 @@
+Write an algebraic expression to represent: 
+"Four times a number"

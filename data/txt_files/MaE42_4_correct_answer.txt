@@ -1,0 +1,2 @@
+Each time gear A makes one revolution, gear B moves 5 spaces. This is a linear function that can be modeled with the equation:
+y=7x+5

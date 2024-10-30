@@ -1,0 +1,1 @@
+The switch-around rule is not always true, it applies only for addition and multiplication. For example: 7+3=10 and 3+7=10, but 7-3=4 and 3-7=-4, it's not the same

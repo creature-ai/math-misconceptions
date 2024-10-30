@@ -1,0 +1,1 @@
+[The plot of f(x)=(2/3)x-2 from x=-6 to 6 from y=-6 to 6]

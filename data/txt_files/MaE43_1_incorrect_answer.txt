@@ -1,0 +1,2 @@
+[The learner plotted: (4,-2), (4,3), (2,2), and (2,-3)] 
+It's a rhombus

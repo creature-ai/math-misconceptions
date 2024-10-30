@@ -1,0 +1,4 @@
+Kate sold 12 tickets to a school play. Katie's total sales, t, for the tickets is given by the formula 
+12c=t
+where c is the cost per ticket.
+What were Katie's total sales if the cost of each ticket is $5?

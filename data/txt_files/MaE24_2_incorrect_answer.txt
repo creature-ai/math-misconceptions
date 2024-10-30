@@ -1,0 +1,4 @@
+4/6=0.66
+This makes no sense
+4 cents buy 6 sweets and 8 cents buy 12 sweets and 6 cents buy 9 sweets. You see, 6 is between 4 and 8, so 4 cents you buy 6 sweets, 6 cents 9 sweets,
+8 cents 12 sweets, 10 cents 15 sweets, 12 cents 18 sweets. There is a pattern: 3,6,9, 12... 15 sweets

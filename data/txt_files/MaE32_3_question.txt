@@ -1,0 +1,1 @@
+The temperature on a chosen date last year was 5 and the temperature on the corresponding day this year is -3. Write an equation and calculate the change in temperature.

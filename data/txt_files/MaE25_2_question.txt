@@ -1,0 +1,2 @@
+3:2=24:x
+Find the value of x

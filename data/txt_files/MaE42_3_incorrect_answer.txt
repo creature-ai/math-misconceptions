@@ -1,0 +1,6 @@
+If we spent the same amount of money, then I can calculate the money spent by each one, until it is equal and so I get the rides.
+Rides | Money I spent | Money spent by my friend
+1       |             2          |                      3                 
+  2       |             4          |                      6                   
+  3       |             6          |                      9                   
+I would have ridden 3 rides, and my friend would have ridden 2 rides

@@ -1,0 +1,1 @@
+Consider a coin collection with an initial value of $2,500 that increased in value by 6% each year. Generate a table showing the value of the collection each year for 10 years and determine the growth factor of this situation. Do you predict the increase in coin value would be linear, exponential, or something else? Explain why.

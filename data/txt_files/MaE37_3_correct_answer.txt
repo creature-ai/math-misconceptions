@@ -1,0 +1,2 @@
+500 more people attended the circus on Day 2 than on Day 1
+It appears that three times as many people attended the circus on Day 2 as in Day 1, because the graph has a break in the scale and is misleading

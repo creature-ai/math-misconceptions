@@ -1,0 +1,2 @@
+Determine whether a situation that doubles x amount of times would yield more rubas than adding 5x amount of times and beginning with 20 rubas.
+Predict whether this situation will be a better offer for the peasant or the king. How do you know?

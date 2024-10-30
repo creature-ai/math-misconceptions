@@ -1,0 +1,1 @@
+Determine whether a situation of 3^(x-1) repeated 6 times would produce a greater yield than 2^(x-1) repeated 64 times. Do you predict this situation will be linear or exponential? How do you know? What did you think about to help you make this prediction?

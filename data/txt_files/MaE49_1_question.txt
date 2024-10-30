@@ -1,0 +1,2 @@
+The perimeter of a triangle is 44 cm. One side of the triangle equals 14 cm, the second side is 2x cm long and the third side equals x cm.
+Write an algebraic equation and work out x

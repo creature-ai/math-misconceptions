@@ -1,0 +1,2 @@
+W=x+yH
+Using one letter for each unknown is easier

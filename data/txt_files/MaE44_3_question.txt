@@ -1,0 +1,2 @@
+Mary's basic wage is $20 per week. She is also paid another $2 for each hour of over-time she works.
+Could you use a formula to find out how much over time Mary would have to work to earn a total wage of $50

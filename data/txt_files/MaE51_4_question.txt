@@ -1,0 +1,1 @@
+Students were shown the following equation on a balance: 5n+3n+11=5n+11+39 and asked if they noticed any equal terms on both sides and if they thought those terms could be removed. Next, students were asked to solve the remaining equation, 3n=39. Once the equation was solved, n=13, students were asked if this solution was also true for the original equation, 5n+3n+11=5n+11+39

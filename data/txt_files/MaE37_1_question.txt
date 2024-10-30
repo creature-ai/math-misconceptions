@@ -1,0 +1,3 @@
+The bar graph below [graph showing two bars, the bar at the left side represents 8125 and the one at the right represents 8625. The y-axis starts at 0 but it has a break sign that takes the axis to 8000, increasing by 125 until 9250. On the x-axis the column on the left side is labeled with 1 and the bar at the right side is labeled with 2. The x- axis name is "Day" and the y-axis name is "Number of people". The title of the graph is "Circus Attendance"] shows attendance at a circus over two days.
+How many MORE people attended the circus on Day 2 than on Day 1?
+Explain why it appears that three times as many people attended the circus on Day 2 as on Day 1.

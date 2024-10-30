@@ -1,0 +1,3 @@
+Use your ruler to solve this problem.
+On the grid below [an empty cartesian plane is provided, that goes from -6 to 6 on each of the axes, increasing by one], graph the points (-2,4), (3,4), (2,2) and (-3,2)
+Now connect the points in the order listed above to make a polygon. Write the name of the polygon you drew.

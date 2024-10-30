@@ -1,0 +1,8 @@
+This line [pointing to a graph of y=x that goes from (0,0) to (10,10); the x- and y- axes are labeled as 0, 2, 4, 6, 8, 10] has a certain steepness to it... If you had to give a number to this steepness, what would you give it? Look at these numbers (pointing to the corresponding table of values).
+Table of values
+x   |   y
+-4  |  -4
+-2  |  -2
+0  |  0
+2  |  2
+4  |  4

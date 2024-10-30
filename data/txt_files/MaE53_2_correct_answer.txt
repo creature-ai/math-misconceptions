@@ -1,0 +1,3 @@
+12c=t
+12*($5)=$60
+Katie's total sales were $60

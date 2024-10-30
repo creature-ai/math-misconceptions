@@ -1,0 +1,1 @@
+Two students have the same amount of candies. Briana has one box, two tubes, and 7 loose candies. Susan has one box, one tube, and 20 loose candies. If each box has the same amount and each tube has the same amount, can you figure out how much each tube holds? Each box? Write algebraic expressions to represent the problem.

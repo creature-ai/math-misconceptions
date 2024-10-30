@@ -1,0 +1,4 @@
+In this case, it is intended to find the unit value to relate donuts to cups of flour, then calculate the amount needed with the proportional method, observing the correct units involved:
+(14 donuts)/(8 cups)=(1.75 donuts)/(1 cup)
+(1.75 donuts/cup)*(12 cups)=21 donuts
+21 donuts

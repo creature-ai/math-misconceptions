@@ -1,0 +1,1 @@
+"z is equal to the sum of 3 and y." Write this information in mathematical symbols

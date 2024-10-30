@@ -1,0 +1,2 @@
+x^4
+correct A: 4x

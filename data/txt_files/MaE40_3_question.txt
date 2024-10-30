@@ -1,0 +1,3 @@
+Pairs of students use prepared spreadsheet files to work with a computer screen such as that seen in the figure [the figure is a screenshot  of a spreadsheet showing a quadratic function represented with a graph on the left side of the window, and its parameters in columns on the right side of the window, so that students are able to change the equation parameters by editing the cells of the right side of the spreadsheet].
+Students are asked to change specific parameters in the function y = x^2 to make it curve down and go through a colored point that is in the lower right quadrant.
+How would you change the parameters to make the curve go through the colored point?

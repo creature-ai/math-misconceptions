@@ -1,0 +1,5 @@
+1q --> 20 c
+2q --> 40 c
+3q --> 60 c
+4q --> 80 c
+There's no ratio in this problem

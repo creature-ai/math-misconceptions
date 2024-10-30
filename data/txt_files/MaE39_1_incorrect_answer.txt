@@ -1,0 +1,1 @@
+The second situation will produce a greater yield, because it is repeated more thimes. I predict this situation would be linear, because x-1 is a linear relationship. To help me make this prediction, I thought about an example from previous classes, where x-1 was a linear situation.
