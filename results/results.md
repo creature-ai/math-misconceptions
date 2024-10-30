@@ -15,12 +15,15 @@ Both experiments were repeated 100 times to ensure robust results, and each used
   - Precision: 0.526
   - Recall: 0.529
   - Overall accuracy: 65.45% (including expert-validated corrections)
-  ![Figure 3](Figure_3.png)
 
 * **Experiment 2** (Topic-constrained testing):
   - Precision: 0.753
   - Recall: 0.748
   - Overall accuracy: 83.91% (including expert-validated corrections)
+ 
+   ![Figure 3](Figure_3.png)
+
+   ![Figure 4](Figure_4.png)
 
 ### **Topic-Specific Performance**
 Performance varied significantly across different mathematical topics:
