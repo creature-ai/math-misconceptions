@@ -1,8 +1,8 @@
 One example of a possible correct answer is:
 x    |   y
-0   | -6
-1   | -5
-2   | -4
- 3   |  -3
- 6   |   0
- 10   |  4
+ 0   | -6
+ 1   | -5
+ 2   | -4
+ 3   | -3
+ 6   |  0
+10   |  4
