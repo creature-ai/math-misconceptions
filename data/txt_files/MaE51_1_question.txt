@@ -1,4 +1,4 @@
-3 + 4 = 7
-      ↑
+3+4=7
+  ↑
 The arrow above points to a symbol.
 What does the symbol mean?
