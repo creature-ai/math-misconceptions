@@ -23,8 +23,6 @@ Both experiments were repeated 100 times to ensure robust results, and each used
  
    ![Figure 3](Figure_3.png)
 
-   ![Figure 4](Figure_4.png)
-
 ### **Topic-Specific Performance**
 Performance varied significantly across different mathematical topics:
 
@@ -35,6 +33,10 @@ Performance varied significantly across different mathematical topics:
   - "Ratios and proportional thinking" proved most challenging, with lowest scores:
      + General testing: 0.215 precision, 0.191 recall
      + Topic-constrained testing: 0.286 precision, 0.333 recall
+   
+     ![Figure 4](Figure_4.png)
+
+     ![Figure 5](Figure_5.png)
 
 ## **Expert Validation**
 
@@ -48,6 +50,8 @@ This expert validation significantly improved the assessed accuracy of GPT-4:
 
 * In Experiment 1: Initial accuracy of 52.96% increased to 65.45%
 * In Experiment 2: Initial accuracy of 73.82% increased to 83.91%
+
+ ![Figure 6](Figure_6.png)
 
 These results demonstrate that:
 
