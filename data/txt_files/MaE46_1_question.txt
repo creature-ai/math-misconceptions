@@ -1,5 +1,5 @@
 The following question is about this expression:
    2n + 3
-↑
+    ↑
 The arrow above points to a symbol.
 What does the symbol stand for?
