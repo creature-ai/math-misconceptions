@@ -2,6 +2,6 @@ For the following expressions, answer:
 What do the equal signs tell us?
 Which is more, one third or four twelfths?
 1/3 = 4/12 
-+
+    +
 1/4 = 3/12 
 1/3 + 1/4 = 7/12
