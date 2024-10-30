@@ -1,6 +1,6 @@
 import pandas as pd
 
-output_file_path = 'outputs/experiment_1_gpt-4-turbo_100iters.csv'
+output_file_path = 'outputs/experiment_2_gpt-4-turbo_100iters.csv'
 outputs_df = pd.read_csv(output_file_path)
 
 print(outputs_df.head())

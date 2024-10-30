@@ -64,7 +64,7 @@ if __name__ == '__main__':
   experiment_name = 'experiment_2'
   input_file_path = 'data/data.json' 
   model_name = 'gpt-4-turbo'
-  num_iterations = 2
+  num_iterations = 100
   output_file_path = f'outputs/{experiment_name}_{model_name}_{num_iterations}iters.csv'
 
   experiment_2(
