@@ -1,5 +1,5 @@
 For the example provided by the student, the equation should be: y=5x
 Data table:
-x | 1 |  2  |  3  |  4  | 5  
-y | 5 | 10 | 15 | 20 | 25
+x | 1 |  2  |  3 |  4 |  5  
+y | 5 | 10  | 15 | 20 | 25
 Graph: a straight line or a scatter plot with the x-data on the horizontal axis and the y-data on the vertical axis
