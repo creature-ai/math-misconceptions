@@ -15,6 +15,7 @@ Both experiments were repeated 100 times to ensure robust results, and each used
   - Precision: 0.526
   - Recall: 0.529
   - Overall accuracy: 65.45% (including expert-validated corrections)
+  ![Figure 3](Figure_3.png)
 
 * **Experiment 2** (Topic-constrained testing):
   - Precision: 0.753
